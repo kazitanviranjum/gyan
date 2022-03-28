@@ -1,0 +1,584 @@
+@media (min-width:1200px) and (max-width:1399.98px){
+    .banner_arrow{
+        top: 75%;
+        left: 45%;
+        transform: translate(-50% 50%);
+    }
+    .banner_arrow.fa-angle-right{
+        left: 50%;
+    }
+    .our_course_batton{
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+@media (min-width:992px) and (max-width:1199.98px){
+    /* nav responsive css */
+    .nav-link {
+        padding-right: 15px !important;
+    }
+    .get_start {
+        font-size: 15px;
+    }
+
+    /* Banner responsive css */
+    #banner .banner_item {
+        height: 580px;
+    }
+    .banner_item .banner_content{
+        text-align: center;
+    }
+    .banner_content p {
+        padding: 0 60px;
+        padding-bottom: 50px;
+        
+    }
+    .banner_arrow.fa-angle-right {
+        left: 92%;
+    }
+
+    /* About responsive css */
+    #about {
+        padding: 70px 0;
+    }
+
+    /* Our Courses responsive css */
+    #our_course {
+        padding: 70px 0;
+    }
+    .course_item {
+        width: 400px;
+    }
+
+    /* Our Event responsive css */
+    .event_item {
+        padding: 12px;
+    }
+    .event_item .txt {
+        padding-left: 5px;
+    }
+    .event_item h4 {
+        font-size: 20px;
+    }
+    .event_item .event_class p {
+        font-size: 12px;
+        padding: 3px 0;
+    }
+    .event_btn {
+        margin-top: 14px;
+    }
+
+    /* Testtimonial responsive css */
+    #testimonial {
+        padding: 70px 0;
+        margin-top: 70px;
+        background-color: var(--bg-color);
+    }
+    #testimonial .test_item .bottom_arow {
+        padding-left: 68px;
+    }
+
+    /* Teacher responsive css */
+    #teacher {
+        margin: 70px 0;
+    }
+
+    /* Blog responsive css */
+    .blog_img .big_item {
+        left: 20px;
+        bottom: 20px;
+    }
+    .blog_img .big_item .like p {
+        padding-right: 14px;
+    }
+    #blog_galarry {
+        margin-bottom: 70px;
+    }
+
+    /* Contact responsive css */
+    .con_item .footer_left_text .footer_left_top {
+        padding-top: 25px;
+    }
+    .con_item .footer_left_text p {
+        font-size: 13px;
+        padding-bottom: 25px;
+    }
+
+    .con_item .ft_menu ul li {
+        padding-bottom: 24px;
+    }
+    .con_item .ft_menu ul li a {
+        font-size: 15px;
+    }
+
+    .con_item .ft_right {
+        margin-bottom: 25px;
+    }
+
+    .con_overlay a {
+        font-size: 12px;
+    }
+
+    /* Back-To-Top responsive css */
+    #top i {
+        font-size: 22px;
+        line-height: 40px;
+        height: 40px;
+        width: 40px;
+    }
+}
+@media (min-width:768px) and (max-width:991.98px){
+
+    #menu_header ul li, #menu_header ul li a {
+        font-size: 13px;
+    }
+    /* nav responsive css */
+    nav {
+        padding-bottom: 11px !important;
+    }
+    #main_menu{
+        text-align: center;
+    }
+    .nav-link {
+        padding-top: 26px !important;
+    }
+    .get_start {
+        visibility: hidden;
+    }
+
+    /* Banner responsive css */
+    #banner .banner_item {
+        height: 490px;
+    }
+    .banner_item .banner_content{
+        text-align: center;
+    }
+    .banner_content p {
+        padding: 0 60px;
+        padding-bottom: 50px;
+        
+    }
+    .banner_arrow.fa-angle-right {
+        left: 91%;
+    }
+    .banner_content h1 {
+        font-size: 45px;
+    }
+    .banner_content h1 span {
+        font-size: 35px;
+    }
+
+    /* Support responsive css */
+    #support .support_item {
+        margin-top: -64px;
+    }
+    #support .support_item img {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    #support .support_item h3 {
+        font-size: 18px;
+    }
+    #support .support_item a {
+        font-size: 15px;
+        color: #999999;
+        margin-bottom: 30px;
+    }
+
+    /* About responsive css */
+    #about {
+        padding: 70px 0;
+    }
+    .about_item p {
+        margin-top: 20px;
+    }
+
+    /* Our Courses responsive css */
+    #our_course {
+        padding: 70px 0;
+    }
+    .our_course_item{
+        text-align: center;
+    }
+    
+    /* Our Event responsive css */
+    #our_event .event_item:last-child {
+        margin-bottom: 20px;
+    }
+
+    /* Testtimonial responsive css */
+    #testimonial {
+        padding: 70px 0;
+        margin-top: 70px;
+        background-color: var(--bg-color);
+    }
+    .testimonial_slider{
+        margin-bottom: 60px;
+    }
+
+    /* Teacher responsive css */
+    #teacher {
+        margin: 70px 0;
+    }
+    
+    /* Blog responsive css */
+    #blog_galarry .blog_img.secend{
+        margin-top: 20px;
+    }
+
+    /* Contact responsive css */
+    .con_full_scren{
+        margin-bottom: 60px;
+    }
+    .con_item .ft_menu ul li {
+        padding-bottom: 24px;
+    }
+    .con_item .ft_right {
+        margin-bottom: 20px;
+    }
+    /* Back-To-Top responsive css */
+    #top i {
+        font-size: 22px;
+        line-height: 40px;
+        height: 40px;
+        width: 40px;
+    }
+    
+}
+@media (min-width:576px) and (max-width:767.98px){
+
+    #menu_header ul li, #menu_header ul li a {
+        font-size: 12px;
+    }
+    /* nav responsive css */
+    nav {
+        padding-bottom: 11px !important;
+    }
+    #main_menu{
+        text-align: center;
+    }
+    .nav-link {
+        padding-top: 26px !important;
+    }
+    .get_start {
+        visibility: hidden;
+    }
+
+    /* Banner responsive css */
+    #banner .banner_item {
+        height: 400px;
+    }
+    .banner_item .banner_content{
+        text-align: center;
+    }
+    .banner_content p {
+        padding: 0 40px;
+        padding-bottom: 30px;
+        
+    }
+    .banner_arrow.fa-angle-right {
+        left: 89%;
+    }
+    .banner_content h1 {
+        font-size: 45px;
+    }
+    .banner_content h1 span {
+        font-size: 35px;
+    }
+    #support .support_item:first-child{
+        margin-top: -38px;
+    }
+    #support .support_item {
+        margin-top: 0;
+    }
+
+    /* About responsive css */
+    #about {
+        padding: 60px 0;
+    }
+    .about_item p {
+        margin-top: 20px;
+    }
+
+    /* Counter responsive css */
+    .counter_item h4 {
+        font-size: 15px;
+    }
+    .counter_item h4 span {
+        font-size: 25px;
+    }
+
+    /* Our Courses responsive css */
+    #our_course {
+        padding: 70px 0;
+    }
+    .our_course_item{
+        text-align: center;
+    }
+    .our_course_batton {
+        left: 7px;
+        z-index: 999;
+    }
+    .our_course_batton.fa-angle-right {
+        left: 90%;
+    }
+
+    /* Our Event responsive css */
+    #our_event .event_item:last-child {
+        margin-bottom: 20px;
+    }
+
+    /* Testtimonial responsive css */
+    #testimonial {
+        padding: 60px 0;
+        margin-top: 60px;
+        background-color: var(--bg-color);
+    }
+    #testimonial .test_text{
+        margin: 30px 0;
+    }
+
+    /* Teacher responsive css */
+    #teacher {
+        margin: 60px 0;
+    }
+
+    /* Blog responsive css */
+    #blog_galarry .blog_img.secend{
+        margin-top: 20px;
+    }
+
+    /* Contact responsive css */
+    .con_full_scren{
+        margin-bottom: 30px;
+    }
+    .con_item .ft_menu ul li {
+        padding-bottom: 18px;
+    }
+    .con_item .ft_menu ul li a {
+        font-size: 15px;
+    }
+    .con_item .ft_right {
+        margin-bottom: 15px;
+    }
+
+    /* Footer responsive css */
+    footer p{
+        font-size: 11px;
+    }
+
+    /* Back-To-Top responsive css */
+    #top i {
+        font-size: 18px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+    
+}
+@media (max-width:575.98px){
+    #menu_header ul li, #menu_header ul li a {
+        font-size: 12px;
+    }
+    .header_right{
+        text-align: left
+    }
+    .content p{
+        padding: 20px 0 30px 0;
+    }
+
+    /* nav responsive css */
+    nav {
+        padding-bottom: 11px !important;
+    }
+    #main_menu{
+        text-align: center;
+    }
+    .nav-link {
+        padding-top: 20px !important;
+    }
+    .get_start {
+        visibility: hidden;
+    }
+
+    /* Banner responsive css */
+    #banner .banner_item {
+        height: 400px;
+    }
+    .banner_item .banner_content{
+        text-align: center;
+    }
+    .banner_content p {
+        padding: 0 5px;
+        padding-bottom: 10px;
+        font-size: 12px;
+        
+    }
+    #banner:hover .banner_arrow{
+        opacity: 0;
+        visibility: hidden;
+    }
+    .banner_content h1 {
+        font-size: 27px;
+    }
+    .banner_content h1 span {
+        font-size: 24px;
+    }
+    .banner_btn a{
+        display: inline-block;
+        font-size: 20px;
+        padding: 13px 22px;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    #support .support_item {
+        margin-top: 0;
+    }
+
+    /* About responsive css */
+    #about {
+        padding: 50px 0;
+    }
+    .about_item{
+        text-align: center;
+    }
+    .about_item p {
+        margin-top: 10px;
+    }
+    .about_item .about_batton{
+        margin-top: 10px;
+    }
+    .about_item .about_batton a{
+        display: inline-block;
+        font-size: 20px;
+        padding: 12px 18px;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    /* Counter responsive css */
+    .counter_item h4 {
+        font-size: 15px;
+    }
+    .counter_item h4 span {
+        font-size: 25px;
+    }
+
+    /* Our Courses responsive css */
+    #our_course {
+        padding: 50px 0;
+    }
+    .our_course_item{
+        text-align: center;
+    }
+    .course_item {
+        width: initial;
+    }
+    .course_user img{
+        margin: auto;
+        margin-bottom: 5px;
+    }
+    .course_user .user_text{
+        margin: 8px 0;
+    }
+    .course_item .course_user .rating{
+        text-align: center;
+    }
+
+    /* Our Event responsive css */
+    #our_event .event_item:last-child {
+        margin-bottom: 20px;
+    }
+    .event_item .txt {
+        padding-left: 12px;
+        padding-top: 12px;
+    }
+
+    /* Testtimonial responsive css */
+    #testimonial {
+        padding: 50px 0;
+        margin-top: 50px;
+    }
+    #testimonial .test_text{
+        margin: 30px 0;
+        text-align: center;
+    }
+    .accordion-item h6 {
+        font-size: 14px;
+        color: var(--focus-reg);
+    }
+    #accordionExample{
+        margin-left: 20px;
+    }
+    .accordion-body {
+        font-size: 12px;
+        padding: 20px 20px;
+    }
+
+    /* Teacher responsive css */
+    #teacher {
+        margin: 50px 0;
+    }
+
+    /* Blog responsive css */
+    #blog_galarry .blog_img.secend{
+        margin-top: 20px;
+    }
+    .blog_img .big_item .like p {
+        padding-right: 14px;
+    }
+    #blog_galarry {
+        margin-bottom: 50px;
+    }
+    .blog_img .big_item {
+        position: absolute;
+        left: 0;
+        bottom: 14px;
+        text-align: center;
+    }
+    #blog_galarry .blog_img {
+        height: 253px;
+    }
+    .blog_img .blog_icone {
+        top: 31px;
+        right: 63px;
+    }
+    ul li {
+        display: inline !important;
+    }
+
+    /* Contact responsive css */
+    .con_item{
+        text-align: center;
+    }
+    .con_item .ft_menu ul li {
+        padding-bottom: 25px !important;
+    }
+    .con_item .ft_menu ul li a {
+        font-size: 15px;
+    }
+    .con_item .ft_right {
+        margin-bottom: 25px;
+    }
+    .con_item .footer_heading h3 {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    .con_item .ft_right .address_title {
+        padding-top: 10px !important;
+        padding-bottom: 10px;
+    }
+
+    /* Footer responsive css */
+    footer p{
+        font-size: 10px;
+    }
+
+    /* Back-To-Top responsive css */
+    #top i {
+        font-size: 18px;
+        line-height: 30px;
+        height: 30px;
+        width: 30px;
+    }
+}
